@@ -34,11 +34,11 @@
         "descricao": "Página de link na bio para as redes sociais",
         "url": "https://link-na-bio-seven.vercel.app/",
         "img": "https://github.com/MxSGameJPS/lista-portifolio/blob/main/img/Captura%20de%20tela%202025-02-13%20090053.png?raw=true"
-    }
+    },
     {
         "name": "Lista de Compras Mobile",
         "descricao": "Aplicativo mobile de lista de compras",
         "url": "https://lista-de-compras-mobile.vercel.app/",
         "img": "https://github.com/MxSGameJPS/lista-portifolio/blob/main/img/Captura%20de%20tela%202025-02-13%20090006.png?raw=true"
-    },
+    }
 ]
