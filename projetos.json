@@ -3,42 +3,42 @@
         "name": "Vídeo-Flow",
         "descricao": "Plataforma para assistir videos, similar ao Youtube",
         "url": "https://video-flow-sigma.vercel.app/",
-        "img":
+        "img": "https://github.com/MxSGameJPS/lista-portifolio/blob/main/img/Captura%20de%20tela%202025-02-13%20085741.png?raw=true"
     },
     {
         "name": "Formulário de abertura de conta",
         "descricao": "Formulário de abertura de conta bancária",
         "url": "https://formulario-abertura-de-conta.vercel.app/",
-"img":
+        "img": "https://github.com/MxSGameJPS/lista-portifolio/blob/main/img/Captura%20de%20tela%202025-02-13%20085807.png?raw=true"
     },
     {
         "name": "Fokus",
         "descricao": "Aplicativo Fokus para estudo e descanso",
         "url": "https://fokus-blond-tau.vercel.app/",
-        "img":
+        "img": "https://github.com/MxSGameJPS/lista-portifolio/blob/main/img/Captura%20de%20tela%202025-02-13%20085828.png?raw=true"
     },
     {
         "name": "AluraBooks",
         "descricao": "Site de vendas de Livros dev",
         "url": "https://alurabooks-iota-red.vercel.app/",
-"img":
+        "img": "https://github.com/MxSGameJPS/lista-portifolio/blob/main/img/Captura%20de%20tela%202025-02-13%20085845.png?raw=true"
     },
     {
         "name": "Lista de Compras Mobile",
         "descricao": "Aplicativo mobile de lista de compras",
         "url": "https://lista-de-compras-mobile.vercel.app/",
-"img":
+        "img": "https://github.com/MxSGameJPS/lista-portifolio/blob/main/img/Captura%20de%20tela%202025-02-13%20090006.png?raw=true"
     },
     {
         "name": "Jogo do número secreto",
         "descricao": "Jogo interativo em JavaScript para descoberta de número",
         "url": "https://jogo-numero-secreto-theta-jet.vercel.app/",
-"img":
+        "img": "https://github.com/MxSGameJPS/lista-portifolio/blob/main/img/Captura%20de%20tela%202025-02-13%20090034.png?raw=true"
     },
     {
         "name": "Link na Bio",
         "descricao": "Página de link na bio para as redes sociais",
         "url": "https://link-na-bio-seven.vercel.app/",
-        "img":
+        "img": "https://github.com/MxSGameJPS/lista-portifolio/blob/main/img/Captura%20de%20tela%202025-02-13%20090053.png?raw=true"
     }
 ]
