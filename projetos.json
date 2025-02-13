@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Vídeo-Flow",
+        "descricao": "Plataforma para assistir videos, similar ao Youtube",
+        "url": "https://video-flow-sigma.vercel.app/",
+        "img":
+    },
+    {
+        "name": "Formulário de abertura de conta",
+        "descricao": "Formulário de abertura de conta bancária",
+        "url": "https://formulario-abertura-de-conta.vercel.app/",
+"img":
+    },
+    {
+        "name": "Fokus",
+        "descricao": "Aplicativo Fokus para estudo e descanso",
+        "url": "https://fokus-blond-tau.vercel.app/",
+        "img":
+    },
+    {
+        "name": "AluraBooks",
+        "descricao": "Site de vendas de Livros dev",
+        "url": "https://alurabooks-iota-red.vercel.app/",
+"img":
+    },
+    {
+        "name": "Lista de Compras Mobile",
+        "descricao": "Aplicativo mobile de lista de compras",
+        "url": "https://lista-de-compras-mobile.vercel.app/",
+"img":
+    },
+    {
+        "name": "Jogo do número secreto",
+        "descricao": "Jogo interativo em JavaScript para descoberta de número",
+        "url": "https://jogo-numero-secreto-theta-jet.vercel.app/",
+"img":
+    },
+    {
+        "name": "Link na Bio",
+        "descricao": "Página de link na bio para as redes sociais",
+        "url": "https://link-na-bio-seven.vercel.app/",
+        "img":
+    }
+]
